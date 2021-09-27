@@ -1,4 +1,4 @@
-# Analysis Workflow and Supplimentary Information 
+# Analysis Workflow and Supplementary Information 
 
 In this repository you will find the [analysis workflow](essential_workflow.md) and detailed information on the log-ratio statistical method for the following study:
 
